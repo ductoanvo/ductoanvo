@@ -1,1 +1,1 @@
-<span style = "color:#34baeb;" >### #StayHome and #BeSafe </span>
+<span style = "color:#34baeb" >### #StayHome and #BeSafe</span>
